@@ -1,7 +1,7 @@
 # Activity Optmizer
 
 **Número da Lista**: X<br>
-**Conteúdo da Disciplina**: XXXXXXXXXX<br>
+**Conteúdo da Disciplina**: Programação Dinâmica<br>
 
 ## Alunos
 | Matrícula   | Aluno         |
